@@ -1,4 +1,4 @@
-/*Author Esat Yücel Software*/
+
 
 "use strict";
 
@@ -78,3 +78,4 @@ const run = () => {
 };
 
 run();
+
