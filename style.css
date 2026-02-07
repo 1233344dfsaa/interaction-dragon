@@ -1,4 +1,4 @@
-/*Author Esat Yücel Software*/
+
 body,
 html {
 	position: absolute;
@@ -19,3 +19,4 @@ svg {
 	cursor: pointer;
 	filter: sepia(20%);
 }
+
